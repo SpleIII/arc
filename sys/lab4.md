@@ -8,6 +8,13 @@
 | **Тест RAM** | **CPUIDMark Memory** | `42081` |
 | **Video Benchmark** | **CPUIDMark Video** | `63833` |
 
+# Отчет по Средство диагностики DirectX
+
+<img width="756" height="533" alt="image" src="https://github.com/user-attachments/assets/8b7d11c4-28d7-43f0-96d9-648649a19c34" />
+<img width="758" height="535" alt="image" src="https://github.com/user-attachments/assets/3d9ee97a-b171-4c6d-8226-69e953ce1f24" />
+<img width="757" height="535" alt="image" src="https://github.com/user-attachments/assets/cbe70365-67f5-4aba-92a9-cc4bf16623fb" />
+
+
 # Контрольные вопросы:
 
 ### Вопрос 1: Причины возникновения проблем с совместимостью ПО
